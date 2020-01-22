@@ -94,7 +94,6 @@ var languages = {"type":"FeatureCollection","features":[{"type":"Feature","prope
 {"type":"Feature","properties":{"label":"Yoruba","family":"Atlantic-Congo","insample":"1"},                              "geometry":{"type":"Point","coordinates":[3.67225,7.15345]}},
 {"type":"Feature","properties":{"label":"Tuvinian","family":"Turkic","insample":"1"},                              "geometry":{"type":"Point","coordinates":[94.36667,51.7]}},
 {"type":"Feature","properties":{"label":"Iu Mien","family":"Hmong-Mien","insample":"1"},                              "geometry":{"type":"Point","coordinates":[101.17,20.83]}},
-{"type":"Feature","properties":{"label":"Modern Hebrew","family":"Afro-Asiatic","insample":"1"},                              "geometry":{"type":"Point","coordinates":[35.0179,31.1056]}},
 {"type":"Feature","properties":{"label":"Plateau Malagasy","family":"Austronesian","insample":"1"},                              "geometry":{"type":"Point","coordinates":[47.1211,-19.5907]}},
 {"type":"Feature","properties":{"label":"Yuchi","family":"Isolate","insample":"1"},                              "geometry":{"type":"Point","coordinates":[-95.03933,35.96146]}},
 {"type":"Feature","properties":{"label":"Trinitario","family":"Arawakan","insample":"1"},                              "geometry":{"type":"Point","coordinates":[-65.4096,-15.3331]}},
